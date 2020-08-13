@@ -12,4 +12,4 @@ The objective was to design and implement a face detector in Python and OpenCV t
 # Organization
 * Savitribai Phule Pune University
 * Robotics and AI Engineering International Program Internship
-# template-plugin-module
+
