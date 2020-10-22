@@ -7,7 +7,6 @@ The objective was to design and implement a face detector in Python and OpenCV t
 
 # Author
 * Mayur Ashok Patil
-* Divya Nitin Gohel
 
 # Organization
 * Savitribai Phule Pune University
