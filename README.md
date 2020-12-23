@@ -1,4 +1,4 @@
-# Face Recognition
+# Face Detection and Recognition
 
 
 The goal of this project is to detect and locate human faces in a color image. A set of training images were provided for this purpose.
